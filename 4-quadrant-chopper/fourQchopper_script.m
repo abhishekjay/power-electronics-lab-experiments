@@ -1,7 +1,7 @@
 %Simulation of four quadrant DC Drive
 
 %% forward motoring mode
-
+%T1 and T4 are operated; T2 and T3 are OFF
 %machine details
 rated_power = 5*745.7;
 rated_speed = 1750*2*pi/60;
